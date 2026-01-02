@@ -1,4 +1,16 @@
+# Python cache
 __pycache__/
 *.pyc
-.env
-predictions.log
+
+# Virtual environment
+venv/
+.env/
+
+# Data files
+*.csv
+
+# Trained models
+*.pkl
+
+# Logs
+*.log
